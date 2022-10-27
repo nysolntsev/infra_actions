@@ -1,6 +1,6 @@
 from django.http import HttpResponse
 
-
+#Comment to commit
 def index(request):
     return HttpResponse('У меня получилось!')
 
